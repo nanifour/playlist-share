@@ -1,3 +1,5 @@
-# playlist-share
+# Playlist Share 🎧
 
-Practice with Spotify API
+Share your playlist song between Apple Music and Spotify. 
+
+Practice with Spotify API.
